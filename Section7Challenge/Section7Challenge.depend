@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632592383 source:d:\development\courses\c++\section7challenge\main.cpp
+	<iostream>
+	<vector>
+	<climits>
+
