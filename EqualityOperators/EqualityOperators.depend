@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-<<<<<<< HEAD
-1632880579 source:d:\development\courses\c++\equalityoperators\main.cpp
-=======
-1632879969 source:d:\development\courses\c++\equalityoperators\main.cpp
->>>>>>> 60d08a11d77686bbcf5a70d7b129db29f82a2ad3
+174 <<<<<<< HEAD
+
+1632920762 source:d:\development\courses\c++\equalityoperators\main.cpp
+	<iostream>
+
+1632879969 08a11d77686bbcf5a70d7b129db29f82a2ad3
 	<iostream>
 
