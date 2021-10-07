@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633645773 source:d:\development\courses\c++\histogram\main.cpp
+	<iostream>
+	<vector>
+
