@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635755566 source:d:\development\courses\c++\cstylestrings\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+
